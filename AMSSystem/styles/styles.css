@@ -1,0 +1,103 @@
+﻿
+body {
+    background-image:url('styles/banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1013px;
+    color:white;
+}
+
+
+
+.nav {
+    background-color: #e5096f;
+    position: absolute;
+    top: 9px;
+    width: 78%;
+    left: 1px;
+    z-index: 999;
+    height: 82px;
+}
+
+h2 {
+    text-align:center;
+}
+.acc_table {
+    width:100%;
+}
+
+.GridView1 {
+    overflow:scroll;
+}
+
+.section-1 {
+    width:100%;
+    float:left;
+}
+
+.section-2 {
+    width: 15%;
+    float: left;
+    height:450px;
+}
+.section-3 {
+    width: 85%;
+    float: right;
+}
+.logo {
+    overflow: hidden;
+    background-color: #e5096f;
+    position: fixed;
+    top: 2px;
+    width: 100%;
+    left: 1px;
+    float:right;
+}
+.logo img {
+        height: 82px;
+        float: right;
+        width: 20%;
+        height: 92px;
+        margin-left: 0px;
+        margin-top: 0px;
+}
+#side-bar-href {
+    background-color: darkslategrey;
+    width: 78%;
+    left: 1px;
+    z-index: 999;
+    height: 82px;
+}
+#side-bar-href a {
+        display: block;
+        color: #E2E2E2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 20px;
+        height: 64px;
+        width: 170px;
+        z-index: 100;
+}
+#side-bar-href a:hover {
+        background: black;
+        color: pink;
+        height: 60px;
+}
+
+.view_acc-side {
+    width: 20%;
+    float: left;
+    height: 450px;
+}
+
+#drop_drop_drown {
+    height: 25px;
+    width: 200px;
+}
+
+#gridview1 {
+	margin-left: 200px;
+}
+
